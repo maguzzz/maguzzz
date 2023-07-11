@@ -9,7 +9,10 @@
 
 
 <p align="center">
-  <h1>💻 Tech Stack:</h1>
+  <h1><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32">
+</picture>Tech Stack:</h1>
 </p>
 
 <p align="center">
